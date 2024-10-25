@@ -40,7 +40,7 @@ export default function Home() {
             }}
           >
             <Image
-              src='https://github.com/samuka0222.png'
+              src='https://github.com/shmach.png'
               alt="minha foto"
               height={150}
               width={150}

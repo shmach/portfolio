@@ -10,7 +10,7 @@ export const projectsPT: IProject[] = [
       alt: 'Captura de tela do Gamers Pub',
     },
     linkPreview: 'https://gamers-pub-xi.vercel.app',
-    linkCode: 'https://github.com/Samuka0222/gamers-pub',
+    linkCode: 'https://github.com/Shmach/gamers-pub',
     tags: ['Next', 'Front', 'IA'],
   },
   {
@@ -22,7 +22,7 @@ export const projectsPT: IProject[] = [
       alt: 'Captura de tela do repositório do Gamers Pub',
     },
     linkPreview: 'https://gamers-pub-xi.vercel.app',
-    linkCode: 'https://github.com/Samuka0222/gamers-pub-sls-api',
+    linkCode: 'https://github.com/Shmach/gamers-pub-sls-api',
     tags: ['Serverless', 'API', 'Typescript', 'IA'],
   },
   {
@@ -34,7 +34,7 @@ export const projectsPT: IProject[] = [
       alt: 'Captura de tela da Landing Page Excalibur Swordplay',
     },
     linkPreview: 'https://excaliburswordplay.com.br',
-    linkCode: 'https://github.com/Samuka0222/excalibur-swordplay',
+    linkCode: 'https://github.com/Shmach/excalibur-swordplay',
     tags: ['Landing Page', 'Animações', 'React'],
   },
   {
@@ -45,7 +45,7 @@ export const projectsPT: IProject[] = [
       src: '/images/todo-list-sls-api.png',
       alt: 'Captura de tela do código do projeto.',
     },
-    linkCode: 'https://github.com/Samuka0222/gamers-pub',
+    linkCode: 'https://github.com/Shmach/gamers-pub',
     linkPreview: undefined,
     tags: ['Serverless', 'API', 'Typescript'],
   },
@@ -61,7 +61,7 @@ export const projectsEN: IProject[] = [
       alt: 'Print from Gamers Pub interface',
     },
     linkPreview: 'https://gamers-pub-xi.vercel.app',
-    linkCode: 'https://github.com/Samuka0222/gamers-pub',
+    linkCode: 'https://github.com/Shmach/gamers-pub',
     tags: ['Next', 'Front', 'IA'],
   },
   {
@@ -73,7 +73,7 @@ export const projectsEN: IProject[] = [
       alt: 'Print from the Gamers Pub Serverless API Repo',
     },
     linkPreview: 'https://gamers-pub-xi.vercel.app',
-    linkCode: 'https://github.com/Samuka0222/gamers-pub-sls-api',
+    linkCode: 'https://github.com/Shmach/gamers-pub-sls-api',
     tags: ['Serverless', 'API', 'Typescript', 'IA'],
   },
   {
@@ -85,7 +85,7 @@ export const projectsEN: IProject[] = [
       alt: 'Print of the Landing Page of Excalibur Swordplay',
     },
     linkPreview: 'https://excaliburswordplay.com.br',
-    linkCode: 'https://github.com/Samuka0222/excalibur-swordplay',
+    linkCode: 'https://github.com/Shmach/excalibur-swordplay',
     tags: ['Landing Page', 'Animations', 'React'],
   },
   {
@@ -96,7 +96,7 @@ export const projectsEN: IProject[] = [
       src: '/images/todo-list-sls-api.png',
       alt: 'Print from the source code of the project.',
     },
-    linkCode: 'https://github.com/Samuka0222/gamers-pub',
+    linkCode: 'https://github.com/Shmach/gamers-pub',
     linkPreview: undefined,
     tags: ['Serverless', 'API', 'Typescript'],
   },

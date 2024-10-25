@@ -6,7 +6,7 @@ export function SocialLinks() {
     <ul className="w-full flex gap-4">
       <li>
         <Link
-          href='https://github.com/Samuka0222'
+          href='https://github.com/shmach'
           target="_blank"
           className="hover:text-white transition-colors"
         >
@@ -24,7 +24,7 @@ export function SocialLinks() {
       </li>
       <li>
         <Link
-          href='https://www.instagram.com/salvesamukaa/'
+          href='https://www.instagram.com/shmach_/'
           target="_blank"
           className="hover:text-white transition-colors"
         >

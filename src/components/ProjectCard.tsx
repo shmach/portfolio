@@ -10,7 +10,16 @@ export function ProjectCard({ project }: ProjectCardProps) {
   return (
     <div className="w-full bg-primary px-5 py-5 rounded-xl flex flex-col justify-center items-center gap-3">
       <h5 className="text-white text-xl font-bold text-start w-full">{project.title}</h5>
-      <div className="w-[350px] h-fit">
+      <div className="block md:hidden w-full h-fit">
+        <Image
+          src={project.image.src}
+          alt={project.image.alt}
+          width={250}
+          height={100}
+          className="w-full text-sm rounded-xl"
+        />
+      </div>
+      <div className="hidden  md:w-[350px] h-fit">
         <Image
           src={project.image.src}
           alt={project.image.alt}
